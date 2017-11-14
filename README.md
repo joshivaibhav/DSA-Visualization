@@ -31,7 +31,7 @@ Bonus:
 3) Djikstra's algortihm 
 4) Binary Search
 
-NOTE : In Djikstra's Algorithm, when the dialog box on then top right reads "Enter distance" then just enter the distance between the nodes  and hit enter
+NOTE : In Djikstra's Algorithm, when the dialog box on the top right reads "Enter distance" then just type the distance between the nodes(eg. 4) and hit enter
 
 The code is not what you'd call "organized" .. but it works nonetheless!
 
