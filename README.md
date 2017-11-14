@@ -28,8 +28,9 @@ Data Structures:
 Bonus:
 
 1) Binary Tree
+2) AVL Tree
 3) Djikstra's algortihm 
-4) Binary Search
+
 
 NOTE : In Djikstra's Algorithm, when the dialog box on the top right reads "Enter distance" then just type the distance between the nodes(eg. 4) and hit enter
 
